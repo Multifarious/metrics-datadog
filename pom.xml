@@ -7,7 +7,7 @@
 
     <groupId>io.ifar.datadog.metrics</groupId>
     <artifactId>metrics-datadog-parent</artifactId>
-    <version>0</version>
+    <version>1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <developers>
@@ -20,7 +20,7 @@
     <scm>
         <url>https://github.com/Multifarious/metrics-datadog</url>
         <developerConnection>scm:git:git@github.com:Multifarious/metrics-datadog.git</developerConnection>
-        <tag>metrics-datadog-parent-0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <organization>
