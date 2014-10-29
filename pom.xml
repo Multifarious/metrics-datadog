@@ -3,10 +3,11 @@
 
     <name>Datadog Metrics Parent</name>
     <description>Metrics reporter that sends data to Datadog.</description>
+    <url>https://github.com/Multifarious/metrics-datadog</url>
 
     <groupId>io.ifar.datadog.metrics</groupId>
     <artifactId>metrics-datadog-parent</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <developers>
