@@ -1,4 +1,4 @@
-package com.codahale.metrics.datadog;
+package io.ifar.datadog.metrics;
 
 import com.codahale.metrics.Clock;
 import com.codahale.metrics.Counter;

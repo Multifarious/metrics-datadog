@@ -1,7 +1,7 @@
-package com.codahale.metrics.datadog;
+package io.ifar.datadog.metrics;
 
-import com.codahale.metrics.datadog.model.DatadogCounter;
-import com.codahale.metrics.datadog.model.DatadogGauge;
+import io.ifar.datadog.metrics.model.DatadogCounter;
+import io.ifar.datadog.metrics.model.DatadogGauge;
 import com.fasterxml.jackson.core.JsonFactory;
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.ObjectMapper;

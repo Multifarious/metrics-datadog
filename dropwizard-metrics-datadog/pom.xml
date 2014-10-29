@@ -4,9 +4,8 @@
 
     <parent>
         <artifactId>metrics-datadog-parent</artifactId>
-        <groupId>com.bazaarvoice.metrics</groupId>
-        <version>1.0.3-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
+        <groupId>io.ifar.datadog.metrics</groupId>
+        <version>0-SNAPSHOT</version>
     </parent>
 
     <artifactId>dropwizard-metrics-datadog</artifactId>
@@ -14,9 +13,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.bazaarvoice.metrics</groupId>
+            <groupId>io.ifar.datadog.metrics</groupId>
             <artifactId>metrics-datadog</artifactId>
-            <version>${project.version}</version>
         </dependency>
         <dependency>
             <groupId>io.dropwizard</groupId>

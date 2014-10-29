@@ -2,10 +2,10 @@ package io.dropwizard.metrics;
 
 import com.codahale.metrics.MetricRegistry;
 import com.codahale.metrics.ScheduledReporter;
-import com.codahale.metrics.datadog.Datadog;
-import com.codahale.metrics.datadog.DatadogReporter;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonTypeName;
+import io.ifar.datadog.metrics.Datadog;
+import io.ifar.datadog.metrics.DatadogReporter;
 
 import javax.validation.constraints.NotNull;
 

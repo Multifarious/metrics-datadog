@@ -1,4 +1,4 @@
-package com.codahale.metrics.datadog.model;
+package io.ifar.datadog.metrics.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;

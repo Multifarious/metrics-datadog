@@ -1,4 +1,4 @@
-package com.codahale.metrics.datadog;
+package io.ifar.datadog.metrics;
 
 public class DefaultMetricNameFormatter implements MetricNameFormatter {
 

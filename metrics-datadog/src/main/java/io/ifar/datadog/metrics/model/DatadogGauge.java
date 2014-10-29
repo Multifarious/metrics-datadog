@@ -1,4 +1,4 @@
-package com.codahale.metrics.datadog.model;
+package io.ifar.datadog.metrics.model;
 
 
 public class DatadogGauge extends DatadogSeries<Number> {
